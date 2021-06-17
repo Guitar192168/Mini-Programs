@@ -1,0 +1,15 @@
+// wxs不支持ES6语法
+
+var foo = 'hello wxs 我的值是根据导入的wxs来显示的，wxs还不能用ES6语法';
+
+var bar = function (name) {
+  console.log('打印了bar函数')
+  return name
+}
+
+ module.exports = {
+   Foo:foo,
+   Bar:bar
+ }
+
+ module.exports.age = '123岁'

@@ -1,0 +1,4 @@
+<!-- 需要闭合标签 -->
+<wxs src="./demoWxs.wxs" module="aolong" />
+
+<view>{{tool}}</view>

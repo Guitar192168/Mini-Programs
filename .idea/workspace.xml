@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52233508-bb8b-4cae-ba1c-b6497e9560d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ajax/.idea/Ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue3/.idea/Vue3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue3/01_体验vue3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue笔记/Day 01/Vue源码/vue-2.5.21/.idea/vue-2.5.21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn_node/.idea/node.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn_node/03_Node中的全局对象/.idea/03_Node中的全局对象.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn_node/2_给node传递参数/.idea/2_给node传递参数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/.idea/ts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part2/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part2/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/src/hello.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part3/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/src/抽象类.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/src/泛型.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ts/part4_类/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../敬华/.idea/敬华.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/拿来实验.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../谢辉/.idea/谢辉.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1u1RtfT8xAHiiMc7DMFk1RErNU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52233508-bb8b-4cae-ba1c-b6497e9560d2" name="Default Changelist" comment="" />
+      <created>1623831326374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623831326374</updated>
+      <workItem from="1623831327970" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
